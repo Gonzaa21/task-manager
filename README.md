@@ -1,5 +1,5 @@
 # Introduction
-
+A task manager that have different functionalities among others, add/delete tasks and save to a json file. Clone this repo to test the project.
 # Project Content
 ```py
 Task Manager/
@@ -20,6 +20,3 @@ Task Manager/
 │   │── tasks.json          # Task storage
 │   │── history.json        # History storage
 ```
-hacer stack (undo)
-
-repo hecho, terminar el trabajo para el commit.
